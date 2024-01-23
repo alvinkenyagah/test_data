@@ -1,0 +1,19 @@
+{
+"login":{
+    "username": "database",
+    "password": "database"
+
+},
+"insurance_companies": [
+
+],
+"clients": [
+
+
+],
+"transactions": [
+
+
+]
+
+}
